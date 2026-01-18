@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "improved_botania_spreaders:muspelheim_spreader"
+    },
+    "G": {
+      "item": "botania:gaia_ingot"
+    },
+    "P": {
+      "item": "botania:rune_gluttony"
+    },
+    "S": {
+      "item": "botania:elementium_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "PFP",
+    "SGS"
+  ],
+  "result": {
+    "item": "improved_botania_spreaders:alfheim_spreader"
+  },
+  "show_notification": true
+}

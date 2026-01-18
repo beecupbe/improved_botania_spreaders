@@ -1,0 +1,8 @@
+{
+  "parent": "botania:block/shapes/spreader_scaffolding",
+  "textures": {
+    "bottom": "improved_botania_spreaders:block/alfheim/spreader_scaffolding_bottom",
+    "side": "improved_botania_spreaders:block/alfheim/spreader_scaffolding_side",
+    "top": "improved_botania_spreaders:block/alfheim/spreader_scaffolding_top"
+  }
+}

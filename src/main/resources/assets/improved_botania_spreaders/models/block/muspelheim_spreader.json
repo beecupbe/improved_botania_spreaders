@@ -1,0 +1,9 @@
+{
+  "parent": "botania:block/shapes/spreader",
+  "textures": {
+    "back": "improved_botania_spreaders:block/muspelheim/spreader_back",
+    "inside": "improved_botania_spreaders:block/muspelheim/spreader_inside",
+    "outside": "improved_botania_spreaders:block/muspelheim/spreader_outside",
+    "side": "improved_botania_spreaders:block/muspelheim/spreader_side"
+  }
+}

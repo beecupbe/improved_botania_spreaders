@@ -1,0 +1,6 @@
+{
+  "parent": "botania:block/shapes/spreader_core",
+  "textures": {
+    "core": "improved_botania_spreaders:block/alfheim/spreader_core"
+  }
+}

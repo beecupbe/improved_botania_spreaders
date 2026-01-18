@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.beecube31.improved_botania_spreaders.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "refmap": "improved_botania_spreaders.refmap.json",
+  "mixins": [
+    "AccessorTileManaSpreader",
+    "MixinSpreaderTile"
+  ],
+  "client": [
+    "MixinEntityRenderers"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

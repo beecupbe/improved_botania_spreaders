@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "improved_botania_spreaders:alfheim_spreader"
+    },
+    "G": {
+      "item": "botania:gaia_ingot"
+    },
+    "P": {
+      "item": "botania:rune_envy"
+    },
+    "S": {
+      "item": "botania:terrasteel_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "PFP",
+    "GSG"
+  ],
+  "result": {
+    "item": "improved_botania_spreaders:asgard_spreader"
+  },
+  "show_notification": true
+}

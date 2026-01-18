@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "improved_botania_spreaders:nilfheim_spreader"
+    },
+    "G": {
+      "item": "botania:life_essence"
+    },
+    "P": {
+      "item": "botania:rune_spring"
+    },
+    "S": {
+      "item": "botania:elementium_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "PFP",
+    "SGS"
+  ],
+  "result": {
+    "item": "improved_botania_spreaders:muspelheim_spreader"
+  },
+  "show_notification": true
+}

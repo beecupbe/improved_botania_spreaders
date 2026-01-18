@@ -1,0 +1,9 @@
+{
+  "block.improved_botania_spreaders.nilfheim_spreader": "Nilfheim Spreader",
+  "block.improved_botania_spreaders.muspelheim_spreader": "Muspelheim Spreader",
+  "block.improved_botania_spreaders.alfheim_spreader": "Alfheim Spreader",
+  "block.improved_botania_spreaders.asgard_spreader": "Asgard Spreader",
+
+  "ibs.spreader_capacity.formatted": "Capacity: %d mana",
+  "ibs.spreader_mana_per_burst.formatted": "Mana per burst: %d"
+}

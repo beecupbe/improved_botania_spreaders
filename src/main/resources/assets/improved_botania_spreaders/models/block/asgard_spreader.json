@@ -1,0 +1,9 @@
+{
+  "parent": "botania:block/shapes/spreader",
+  "textures": {
+    "back": "improved_botania_spreaders:block/asgard/spreader_back",
+    "inside": "improved_botania_spreaders:block/asgard/spreader_inside",
+    "outside": "improved_botania_spreaders:block/asgard/spreader_outside",
+    "side": "improved_botania_spreaders:block/asgard/spreader_side"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "botania:block/shapes/spreader",
+  "textures": {
+    "back": "improved_botania_spreaders:block/nilfheim/spreader_back",
+    "inside": "improved_botania_spreaders:block/nilfheim/spreader_inside",
+    "outside": "improved_botania_spreaders:block/nilfheim/spreader_outside",
+    "side": "improved_botania_spreaders:block/nilfheim/spreader_side"
+  }
+}

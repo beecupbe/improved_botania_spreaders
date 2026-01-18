@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "botania:fabulous_pool"
+    },
+    "P": {
+      "item": "botania:rune_pride"
+    },
+    "S": {
+      "item": "botania:shimmerrock"
+    },
+    "T": {
+      "item": "botania:terrasteel_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    "PFP",
+    "STS"
+  ],
+  "result": {
+    "item": "improved_botania_spreaders:nilfheim_spreader"
+  },
+  "show_notification": true
+}

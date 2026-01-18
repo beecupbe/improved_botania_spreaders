@@ -1,0 +1,9 @@
+{
+  "block.improved_botania_spreaders.nilfheim_spreader": "Нильфхеймский распространитель маны",
+  "block.improved_botania_spreaders.muspelheim_spreader": "Муспельхеймский распространитель маны",
+  "block.improved_botania_spreaders.alfheim_spreader": "Альфхеймский распространитель маны",
+  "block.improved_botania_spreaders.asgard_spreader": "Распространитель маны Асгарда",
+
+  "ibs.spreader_capacity.formatted": "Хранит %d маны",
+  "ibs.spreader_mana_per_burst.formatted": "Передает %d за всплеск"
+}
